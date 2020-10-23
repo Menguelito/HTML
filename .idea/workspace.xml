@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1690dd2d-f475-42c1-ad29-d3668463eb89" name="Default Changelist" comment="mijneerste commit" />
+    <list default="true" id="1690dd2d-f475-42c1-ad29-d3668463eb89" name="Default Changelist" comment="mijneerste commit">
+      <change afterPath="$PROJECT_DIR$/HTML5/h02/Artikel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML5/h02/Tags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML5/h02/h02Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -31,6 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -41,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603425931801</updated>
-      <workItem from="1603425933088" duration="1616000" />
+      <workItem from="1603425933088" duration="3798000" />
     </task>
     <task id="LOCAL-00001" summary="mijneerste commit">
       <created>1603426313451</created>
@@ -64,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603427273265</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="mijneerste commit">
+      <created>1603427599468</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603427599468</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,10 +93,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="265" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603426197085" />
-    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1603427275747">
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1603427602562">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603427275747" />
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603427602562" />
     <state x="1241" y="430" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1603426367785">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
