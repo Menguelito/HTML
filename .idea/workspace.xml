@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1690dd2d-f475-42c1-ad29-d3668463eb89" name="Default Changelist" comment="mijneerste commit">
-      <change afterPath="$PROJECT_DIR$/HTML5/h02/Artikel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML5/h02/Tags.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML5/h02/h02Style.css" afterDir="false" />
+    <list default="true" id="1690dd2d-f475-42c1-ad29-d3668463eb89" name="Default Changelist" comment="H02 commmit en push HTML">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603425931801</updated>
-      <workItem from="1603425933088" duration="3798000" />
+      <workItem from="1603425933088" duration="4168000" />
     </task>
     <task id="LOCAL-00001" summary="mijneerste commit">
       <created>1603426313451</created>
@@ -78,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603427599468</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="H02 commmit en push HTML">
+      <created>1603430754526</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603430754526</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,17 +90,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mijneerste commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="mijneerste commit" />
+    <MESSAGE value="H02 commmit en push HTML" />
+    <option name="LAST_COMMIT_MESSAGE" value="H02 commmit en push HTML" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1220" y="265" key="FileChooserDialogImpl" timestamp="1603426197085">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="265" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603426197085" />
-    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1603427602562">
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1603430760005">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603427602562" />
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603430760005" />
     <state x="1241" y="430" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1603426367785">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
