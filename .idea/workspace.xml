@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1690dd2d-f475-42c1-ad29-d3668463eb89" name="Default Changelist" comment="H02 commmit en push HTML">
+    <list default="true" id="1690dd2d-f475-42c1-ad29-d3668463eb89" name="Default Changelist" comment="H02 commit en push">
+      <change afterPath="$PROJECT_DIR$/HTML5/h03/Tabel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML5/h03/opdracht1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +35,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -46,6 +66,8 @@
       <option name="presentableId" value="Default" />
       <updated>1603425931801</updated>
       <workItem from="1603425933088" duration="4168000" />
+      <workItem from="1603430861530" duration="218000" />
+      <workItem from="1603710418391" duration="1431000" />
     </task>
     <task id="LOCAL-00001" summary="mijneerste commit">
       <created>1603426313451</created>
@@ -82,26 +104,54 @@
       <option name="project" value="LOCAL" />
       <updated>1603430754526</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="H02 Afbeelding commmit en push">
+      <created>1603430904840</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603430904840</updated>
+    </task>
+    <task id="LOCAL-00007" summary="H02 commit en push">
+      <created>1603431006594</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603431006594</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mijneerste commit" />
     <MESSAGE value="H02 commmit en push HTML" />
-    <option name="LAST_COMMIT_MESSAGE" value="H02 commmit en push HTML" />
+    <MESSAGE value="H02 Afbeelding commmit en push" />
+    <MESSAGE value="H02 commit en push" />
+    <option name="LAST_COMMIT_MESSAGE" value="H02 commit en push" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1220" y="265" key="FileChooserDialogImpl" timestamp="1603426197085">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="265" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603426197085" />
-    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1603430760005">
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1603431017527">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603430760005" />
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603431017527" />
     <state x="1241" y="430" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1603426367785">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
