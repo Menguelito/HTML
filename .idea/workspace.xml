@@ -19,20 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1690dd2d-f475-42c1-ad29-d3668463eb89" name="Default Changelist" comment="H04 Commit en push">
-      <change afterPath="$PROJECT_DIR$/HTML5/h05/Burton.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML5/h05/Burtoneducation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML5/h05/img/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML5/h05/img/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML5/h05/img/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML5/h05/img/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML5/h05/img/appel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML5/h05/img/book.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML5/h05/img/burton_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML5/h05/img/bus.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML5/h05/img/desk.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML5/h05/img/football.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML5/h05/img/pythagoras.jpg" afterDir="false" />
+    <list default="true" id="1690dd2d-f475-42c1-ad29-d3668463eb89" name="Default Changelist" comment="H05 Commit en push">
+      <change afterPath="$PROJECT_DIR$/HTML5/h06/Formulier.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML5/h06/stylesheetformulier.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML5/h07/Stylemusic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML5/h07/Truemusic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML5/h07/images/drums.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML5/h07/images/gitaar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML5/h07/images/saxofoon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML5/h07/images/trompet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML5/h07/images/truemusic-logo.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +75,9 @@
       <workItem from="1603425933088" duration="4168000" />
       <workItem from="1603430861530" duration="218000" />
       <workItem from="1603710418391" duration="3459000" />
-      <workItem from="1603803901154" duration="663000" />
+      <workItem from="1603803901154" duration="1317000" />
+      <workItem from="1603884169287" duration="2158000" />
+      <workItem from="1604403054473" duration="1431000" />
     </task>
     <task id="LOCAL-00001" summary="mijneerste commit">
       <created>1603426313451</created>
@@ -151,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603804345529</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="H05 Commit en push">
+      <created>1603804819008</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1603804819008</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,17 +181,18 @@
     <MESSAGE value="H02 commit en push" />
     <MESSAGE value="H03 Commit en push" />
     <MESSAGE value="H04 Commit en push" />
-    <option name="LAST_COMMIT_MESSAGE" value="H04 Commit en push" />
+    <MESSAGE value="H05 Commit en push" />
+    <option name="LAST_COMMIT_MESSAGE" value="H05 Commit en push" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1220" y="265" key="FileChooserDialogImpl" timestamp="1603426197085">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="265" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603426197085" />
-    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1603804360090">
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1603804823493">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603804360090" />
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603804823493" />
     <state x="1241" y="430" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1603426367785">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

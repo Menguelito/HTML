@@ -1,0 +1,59 @@
+* {
+
+    margin: 7px;
+    align-self: center;
+}
+
+#wrapper {
+    width: 80%;
+    margin:auto;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: auto;
+}
+
+form {
+    display: grid;
+    grid-template-columns: 12% 38% 10% 20% 30%;
+}
+
+h2 {
+    grid-column: 1/6;
+}
+
+div.eten {
+    display: flex;
+    grid-column: 4/6;
+}
+
+input.textinput, textarea {
+    width:50%;
+}
+
+input, select, textarea {
+    border: solid 1px cornflowerblue;
+}
+
+select {
+    width: 70px;
+}
+
+label.omschrijving {
+    align-self: flex-start;
+}
+
+label.geboortedatum, label.omschrijving, label.kleurogen {
+    grid-column: 1/2;
+}
+
+.knoppen {
+    border: 2px outset rgb(211, 211, 211);
+    margin-right:5px;
+}
+#knoppen {
+    align-self: center;
+    grid-column:4/5;
+    display: inline;
+}
